@@ -1,0 +1,13 @@
+h1 {
+    color: purple;
+    font-family:'Courier New', Courier, monospace;
+}
+
+p {
+    color: green;
+    font-size: 24px;
+}
+
+img {
+    width: 200px;
+}
